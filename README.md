@@ -10,7 +10,7 @@
 - Business Analysis (Requirement understanding, problem-solving)
 
 ## Projects
-- Sales Dashboard (Excel)
+- Department & Region-wise Expense Analysis Dashboard (Excel)
 
 ## Currently Learning
 - Advanced Excel
