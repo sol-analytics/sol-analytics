@@ -1,7 +1,8 @@
 # Hi, I'm Sol 👋
 ## 📊 Featured Project
 
-![Dashboard](https://github.com/sol-analytics/excel-expense-analysis-dashboard/blob/main/dashboard.png)
+![Dashboard](<img width="1543" height="656" alt="Screenshot 2026-05-02 002235" src="https://github.com/user-attachments/assets/cd8c7285-815a-4189-b0c6-50115fe23c4b" />)
+
 
 🎯 Aspiring Business Analyst  
 📊 Learning Excel & Power BI  
