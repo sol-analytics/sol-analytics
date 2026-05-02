@@ -1,4 +1,4 @@
-# Hi, I'm Sol 👋
+# Hi, I'm Anubhuti 👋
 
 🎯 Aspiring Business Analyst  
 📊 Learning Excel & Power BI  
