@@ -1,7 +1,7 @@
 # Hi, I'm Sol 👋
 ## 📊 Featured Project
 
-![Dashboard] (./Screenshot%202026-05-02%20002235.png)
+![Dashboard](./Screenshot%202026-05-02%20002235.png)
 
 🎯 Aspiring Business Analyst  
 📊 Learning Excel & Power BI  
