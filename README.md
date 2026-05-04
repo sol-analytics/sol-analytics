@@ -11,6 +11,7 @@
 
 ## Projects
 - Department & Region-wise Expense Analysis Dashboard (Excel)
+- Personal Budget Analysis with Month-over-Month (MoM) Trends (Excel)
 
 ## Currently Learning
 - Advanced Excel
