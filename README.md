@@ -19,4 +19,4 @@
 - Case Studies
 
 ## Connect with me
-[LinkedIn](https://www.linkedin.com/in/anubhuti-srivastava-as1000/)
+[LinkedIn]((https://www.linkedin.com/in/anubhuti-srivastava-as/))
