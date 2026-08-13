@@ -10,6 +10,8 @@
 - Business Analysis (Requirement understanding, problem-solving)
 
 ## Projects
+
+- AdventureWorks Business Intelligence Dashboard (Power BI & DAX)
 - Department & Region-wise Expense Analysis Dashboard (Excel)
 - Personal Budget Analysis with Month-over-Month (MoM) Trends (Excel)
 
