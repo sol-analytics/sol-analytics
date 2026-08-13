@@ -12,8 +12,8 @@
 ## Projects
 
 - [AdventureWorks Business Intelligence Dashboard (Power BI & DAX)](https://github.com/sol-analytics/adventureworks-powerbi-business-intelligence)
-- Department & Region-wise Expense Analysis Dashboard (Excel)
-- Personal Budget Analysis with Month-over-Month (MoM) Trends (Excel)
+- [Department & Region-wise Expense Analysis Dashboard (Excel)](https://github.com/sol-analytics/Expense-Analysis-Dashboard-Excel)
+- [Personal Budget Analysis with Month-over-Month (MoM) Trends (Excel)](https://github.com/sol-analytics/Personal-Budget-Analysis-MoM)
 
 ## Currently Learning
 - Advanced Excel
