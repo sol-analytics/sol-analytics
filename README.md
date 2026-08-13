@@ -16,9 +16,10 @@
 - [Personal Budget Analysis with Month-over-Month (MoM) Trends (Excel)](https://github.com/sol-analytics/Personal-Budget-Analysis-MoM)
 
 ## Currently Learning
-- Advanced Excel
-- Power BI
-- Case Studies
+
+- SQL
+- Business Analysis & Case Studies
+- Data Analytics
 
 ## Connect with me
 [LinkedIn](https://www.linkedin.com/in/anubhuti-srivastava-as/)
