@@ -113,7 +113,7 @@ I'm currently looking for entry-level opportunities in:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [LinkedIn Profile](linkedin.com/in/anubhuti-srivastava-as/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/anubhuti-srivastava-as/)
 - 📧 Email: anubhuti.srivastava1212@gmail.com
 
 ---
