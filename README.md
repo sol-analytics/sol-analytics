@@ -55,7 +55,7 @@ Interactive Business Intelligence solution analyzing revenue, profit, orders, pr
 - Interactive tooltips, slicers and navigation
 - Performance analysis and optimization
 
-[View Project →]((https://github.com/sol-analytics/adventureworks-powerbi-business-intelligence))
+[View Project](https://github.com/sol-analytics/adventureworks-powerbi-business-intelligence)
 
 ---
 
@@ -71,7 +71,7 @@ Interactive Excel dashboard designed to analyze expense patterns across departme
 - KPI reporting
 - Interactive dashboarding
 
-[View Project →](https://github.com/sol-analytics/Expense-Analysis-Dashboard-Excel)
+[View Project](https://github.com/sol-analytics/Expense-Analysis-Dashboard-Excel)
 
 ---
 
@@ -87,7 +87,7 @@ Personal financial analysis project focused on understanding spending patterns a
 - MoM performance
 - Financial insights
 
-[View Project →](https://github.com/sol-analytics/Personal-Budget-Analysis-MoM)
+[View Project](https://github.com/sol-analytics/Personal-Budget-Analysis-MoM)
 
 ---
 
